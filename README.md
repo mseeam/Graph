@@ -1,2 +1,1 @@
-# empty
-empty repository with only a readme
+Implementation of an undirected, unweighted graph in C++
